@@ -9,7 +9,7 @@ mkdir Shell
 vim names.csv
 ```
 
-![](../Darey.io-PBL/images/aux-project/mkdir.png)
+![](./aux-project-images/mkdir.png)
 
 * Insert some random names into it. (One name per line)
 
@@ -20,12 +20,12 @@ vim names.csv
 
 * Ensure that the user that is being created also has a default home folder
 
-![](../Darey.io-PBL/images/aux-project/ScreenShot_5_1_2022_9_45_04_AM.png)
+![](./aux-project-images/ScreenShot_5_1_2022_9_45_04_AM.png)
 
 * Ensure that each user has a .ssh folder within its HOME folder. If it does not exist, then create it.
 
-![](../../Darey.io/Darey.io-PBL/images/aux-project/ScreenShot_5_1_2022_9_43_35_AM.png)
+![](./aux-project-images/ScreenShot_5_1_2022_9_43_35_AM.png)
 
 * For each user’s SSH configuration, create an authorized_keys file and ensure it has the public key of your current user.
 
-![](../Darey.io-PBL/images/aux-project/ScreenShot_5_1_2022_9_43_50_AM.png)
+![](./aux-project-images/ScreenShot_5_1_2022_9_43_50_AM.png)
