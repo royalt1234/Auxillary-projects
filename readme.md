@@ -29,3 +29,6 @@ vim names.csv
 * For each user’s SSH configuration, create an authorized_keys file and ensure it has the public key of your current user.
 
 ![](./aux-project-images/ScreenShot_5_1_2022_9_43_50_AM.png)
+
+
+Here is a [DEMO](https://clipchamp.com/watch/5OcqPU6aeZi) of the entire process
