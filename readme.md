@@ -32,3 +32,6 @@ vim names.csv
 
 
 Here is a [DEMO](https://clipchamp.com/watch/5OcqPU6aeZi) of the entire process
+
+
+I would be redoing this soon, a more optimized video.
